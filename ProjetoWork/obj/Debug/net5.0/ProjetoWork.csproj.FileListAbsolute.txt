@@ -1,0 +1,16 @@
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\bin\Debug\net5.0\ProjetoWork.exe
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\bin\Debug\net5.0\ProjetoWork.deps.json
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\bin\Debug\net5.0\ProjetoWork.runtimeconfig.json
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\bin\Debug\net5.0\ProjetoWork.runtimeconfig.dev.json
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\bin\Debug\net5.0\ProjetoWork.dll
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\bin\Debug\net5.0\ref\ProjetoWork.dll
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\bin\Debug\net5.0\ProjetoWork.pdb
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\obj\Debug\net5.0\ProjetoWork.csproj.AssemblyReference.cache
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\obj\Debug\net5.0\ProjetoWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\obj\Debug\net5.0\ProjetoWork.AssemblyInfoInputs.cache
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\obj\Debug\net5.0\ProjetoWork.AssemblyInfo.cs
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\obj\Debug\net5.0\ProjetoWork.csproj.CoreCompileInputs.cache
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\obj\Debug\net5.0\ProjetoWork.dll
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\obj\Debug\net5.0\ref\ProjetoWork.dll
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\obj\Debug\net5.0\ProjetoWork.pdb
+D:\Pedro\Udemy\Curso C# POO\Seção9-Enumerações e Composição\3-QuestãoTrabalhador\ProjetoWork\ProjetoWork\obj\Debug\net5.0\ProjetoWork.genruntimeconfig.cache
